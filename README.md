@@ -34,4 +34,4 @@ The script performs the following steps for each image in the dataset:
 To run this project locally, ensure you have Python installed. You will need the following dependencies:
 
 ```bash
-pip install torch torchvision ultralytics pandas requests pillow
+pip install torch torchvision ultralytics pandas numpy requests pillow
